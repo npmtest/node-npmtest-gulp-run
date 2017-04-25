@@ -1,6 +1,6 @@
 # npmtest-gulp-run
 
-#### test coverage for  [gulp-run (v1.7.1)](https://github.com/MrBoolean/gulp-run)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-run.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-run)
+#### basic test coverage for  [gulp-run (v1.7.1)](https://github.com/MrBoolean/gulp-run)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-run.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-run)
 
 #### Pipe to shell commands in gulp
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-run/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-run/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-run/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-run/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-run/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-run/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-run/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-run/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-run/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-run/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-run/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-run/build/coverage.html/index.html)
 
@@ -97,7 +97,8 @@
         "url": "git://github.com/MrBoolean/gulp-run.git"
     },
     "scripts": {},
-    "version": "1.7.1"
+    "version": "1.7.1",
+    "bin": {}
 }
 ```
 
